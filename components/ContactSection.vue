@@ -1,10 +1,12 @@
 <template>
-  <div class="contactMe page-section">
+  <div class="contactMe page-section
+  border-t border-t-8 rounded-t-lg border-[--lilac] 
+  lg:border-t-0 lg:border-l lg:border-l-8 lg:rounded-l-lg lg:border-[--lilac]">
 
       <div class="flex flex-wrap lg:flex-nowrap justify-between">
         
         <div class="w-auto m-5 flex flex-col justify-between text-[--agapanthus]">
-          <h2>Contact Me</h2>
+          <!-- <h2>Contact Me</h2> -->
           <!-- email -->
           <a href="mailto:marysennello@gmail.com">
             <h4 class="text-3xl inline">Email</h4>
