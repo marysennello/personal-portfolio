@@ -33,7 +33,7 @@
           </a>
           <div>
             <h3 class="text-3xl font-weight-bold">
-              <span class="color-bg c">    
+              <span class="color-bg">    
               Let's chat soon.
               </span> 
             </h3>

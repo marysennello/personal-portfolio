@@ -1,5 +1,5 @@
 <template>
-  <div class="myProjects page-section">
+  <div class="myWork page-section">
 
     <div class="flex flex-wrap lg:flex-nowrap justify-between">
       <div class="m-5">

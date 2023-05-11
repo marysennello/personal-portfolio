@@ -32,6 +32,20 @@
 /*   gradients-linear transparent */
   --grad-linear-bg-lt: rgba(210,173,215, 0.4);
   --grad-linear-lt: linear-gradient(152deg, rgba(210,173,215,0.4) 0%, rgba(231,180,232,0.4) 14%, rgba(206,155,223,0.4) 29%, rgba(188,139,228,0.4) 55%, rgba(152,167,231,0.4) 70%, rgba(243,244,246,0.4) 100%);
+
+  /*gradients for header*/
+  --grad-stage-1: linear-gradient(36deg, #ba90d1 0%, #ead7dd 100%);
+  --grad-stage-2: linear-gradient(72deg, #ba90d1 0%, #ead7dd 100%);
+  --grad-stage-3: linear-gradient(108deg, #ba90d1 0%, #ead7dd 100%);
+  --grad-stage-4: linear-gradient(144deg, #ba90d1 0%, #ead7dd 100%);
+  --grad-stage-5: linear-gradient(180deg, #ba90d1 0%, #ead7dd 100%);
+  --grad-stage-6: linear-gradient(216deg, #ba90d1 0%, #ead7dd 100%);
+  --grad-stage-7: linear-gradient(252deg, #ba90d1 0%, #ead7dd 100%);
+  --grad-stage-8: linear-gradient(288deg, #ba90d1 0%, #ead7dd 100%);
+  --grad-stage-9: linear-gradient(324deg, #ba90d1 0%, #ead7dd 100%);
+  --grad-stage-10: linear-gradient(0deg, #ba90d1 0%, #ead7dd 100%);
+
+  
   
 
   /* border radii */
@@ -55,7 +69,6 @@
 body {
   background-color: var(--shell);
   color: var(--blackish);
-  margin-top: 2em;
 }
 
 
@@ -95,7 +108,7 @@ nav {
   color: var(--shell);
   min-height: 100px;
   border-bottom: 0.25em solid var(--pinkpearl);
-  box-shadow: var(--shadow-hazy-pinkpearl);
+  /* box-shadow: var(--shadow-hazy-pinkpearl); */
   border-radius: var(--border-inner-bottom);
 }
 
@@ -127,6 +140,28 @@ main {
   font-family: var(--font-accent);
   font-size: 2em;
 }
+/*moving gradient for header*/
+/* .header-grad {
+  background-color: var(--pinkpearl);
+  animation-name: changegrad;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+}
+@keyframes changegrad {
+  
+  0%   {background: var(--grad-stage-2);}
+  11%   {background: var(--grad-stage-3);}
+  22% {background: var(--grad-stage-4);}
+  33% {background: var(--grad-stage-5);}
+  44%  {background: var(--grad-stage-6);}
+  55%   {background: var(--grad-stage-7);}
+  66%  {background: var(--grad-stage-8);}
+  77%  {background: var(--grad-stage-9);}
+  88% {background: var(--grad-stage-10);}
+  100%  {background: var(--grad-stage-1);}
+} */
+
+
 /*color background for contact me section*/
 .color-bg {
   padding: 0.5rem;

@@ -3,8 +3,8 @@
     <main class="mx-3">
       <div id="aboutMe" class="h-32"></div>
       <AboutSection />
-      
-      <div id="myProjects" class="h-32"></div>
+
+      <div id="myWork" class="h-32"></div>
       <ProjectSection />
 
       <div id="contactMe" class="h-32"></div>
