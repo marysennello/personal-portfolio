@@ -7,12 +7,17 @@
 
       <div class="aboutMeInfo w:full lg:w-3/6 m-5">
         <!-- <h2>About Me</h2> -->
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec dolor nulla. Pellentesque luctus ante eu dui ornare, viverra tincidunt neque gravida. Mauris tortor velit, feugiat a gravida sed, lobortis nec dui. Integer bibendum dictum sapien id egestas. Donec quis urna nibh. Ut tincidunt egestas tellus, at molestie mi. Nulla et augue id lectus eleifend tincidunt. Maecenas volutpat, sapien vitae vestibulum sodales, lorem erat condimentum augue, vitae scelerisque leo ligula eget felis. Vivamus turpis erat, maximus dictum rhoncus et, facilisis ac purus. Sed sed urna tempor metus molestie aliquam id id arcu. Donec vel placerat nibh. Nullam vitae velit non quam commodo convallis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi convallis, nisl nec aliquam consectetur, ante turpis blandit augue, eget pellentesque est felis sit amet odio. Curabitur fermentum rhoncus augue ut varius.
+        <p class="md:text-lg mb-5">
+          I am a Front End Developer with a record for improving processes, implementing creative solutions, and delivering optimized, refined projects. I enjoy making the vision happen and learning the best way to get there. My curiosity and desire for efficiency fuel my pursuit to create usable, logical content.
         </p>
-        <p>
-          Nunc congue aliquet ex. Nunc maximus eleifend libero, id suscipit ligula. Aenean consequat pellentesque ipsum, sed tristique turpis pharetra sed. Sed nibh tortor, dignissim vitae posuere quis, luctus vel erat. Nunc ut maximus magna, et cursus ligula. Sed quis mollis libero. Sed ut leo sed risus pulvinar viverra at nec tellus. Praesent eu nunc euismod, dictum nibh et, condimentum quam. Vestibulum molestie porttitor eros. 
+        <h5>Background</h5>
+        <p class="md:text-lg mb-5">
+          After working in Commercial Real Estate for over six years, I knew I needed a change. I took my interest in logical processes and design and decided to pursue the University of Washington Professional & Continuing Education (UWPCE) Certificates in <span class="font-semibold">Front End Development with HTML, CSS & Javascript</span> (completed April 2023) and <span class="font-semibold">UX & Visual Interface Design</span> (completed August 2022). 
         </p>
+        <h5>Interests</h5>
+        <p class="md:text-lg mb-5">
+          Praesent dictum, risus nec blandit fermentum, arcu dolor egestas leo, ut tincidunt nulla nisi at nisl. Integer vestibulum in justo in congue. Etiam mattis ullamcorper enim sit amet auctor. Nullam placerat lectus quam, sed dignissim arcu finibus sed. Donec pellentesque eget nibh ut porta. 
+        </p>  
       </div>
 
       <div class="w-full lg:w-2/5 m-5">

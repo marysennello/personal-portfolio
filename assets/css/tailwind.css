@@ -58,29 +58,37 @@ body {
   color: var(--plumish);
 }
 
-
 @layer components {
   * {
     font-family: var(--font-body);
     scroll-behavior: smooth;
   }
 
-  h1, h2, h3, h4, h5 {
+  h1, h2 {
     font-family: var(--font-header);
     font-size: 2.5em;
   }
+  h3, h4, h5 {
+    font-family: var(--font-header);
+    font-size: 1.75em;
+    color: var(--blackish);
+  }
+
   h1 {
     color: var(--blackish);
     text-shadow: var(--pinkpearl) 2px 0 20px;
   }
+
   h2  {
-    color: var(--dark--plumish);
+    color: var(--plumish);
     text-shadow:  var(--pinkpearl) 1px 0 7px;
   }
+
   h3 {
     color: var(--blackish);
     text-shadow: var(--shell) 1px 0 6px;
   } 
+
   a h4, a h5 {
     color: var(--agapanthus)
   }
@@ -113,6 +121,7 @@ main {
   box-shadow: var(--shadow-around-thin);
   margin-bottom: 1em;
 }
+
 .screen-reader-only {
   position: absolute;
   width: 1px;
@@ -130,7 +139,7 @@ main {
 
 /*moving gradient for header*/
 .gradient-background {
-  background: linear-gradient(120deg,#fff, #f1f2f4,#e5cad1, #ba90d1, #6e557c);
+  background: linear-gradient(120deg, rgba(229, 202, 209, 0.2), #f1f2f4,#e5cad1, #ba90d1, #6e557c);
   background-size: 240% 240%;
   animation: gradient-animation 12s ease infinite;
 }
@@ -146,8 +155,6 @@ main {
     background-position: 0% 50%;
   }
 }
-
-
 
 
 /*color background for contact me section*/

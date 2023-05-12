@@ -10,9 +10,14 @@
           <!--arrow icon  -->
           <a href="#navbar" class=" inline text-[--shell]">
             <span class="material-symbols-outlined             
-            m-3 p-3 bg-[--plumish] rounded-full enter-btn">
+            m-3 p-3 bg-[--plumish] rounded-full enter-btn 
+            transition transform ease-in-out
+            hover:bg-[--lavender] shadow hover:shadow-inner
+            focus:bg-[--lavender] shadow focus:shadow-inner
+            ">
             arrow_forward
             </span>
+            <span class="screen-reader-only">skip to main content</span>
           </a>
         </div>
     </header>
