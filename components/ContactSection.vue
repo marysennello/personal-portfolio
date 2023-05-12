@@ -37,13 +37,13 @@
           </a>
           
           <!-- gradient change let's chat soon -->
-          <div>
+          <!-- <div>
             <h3 class="text-3xl font-weight-bold ">
               <span class="color-bg">    
               Let's chat soon.
               </span> 
             </h3>
-          </div>
+          </div> -->
         </div>
         <!-- div for headshot -->
         <div class="w-full md:w-2/5 m-5">

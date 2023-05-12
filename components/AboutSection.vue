@@ -20,7 +20,7 @@
         </p>  
       </div>
 
-      <div class="w-full lg:w-2/5 m-5">
+      <div class="w-full lg:w-2/5 m-5 hidden md:block">
         <img src="../assets/images/mary-sennello-tree-lg.png" alt="portrait of Mary Sennello" class="object-fill rounded-lg">
       </div>
       
