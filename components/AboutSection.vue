@@ -15,7 +15,7 @@
           After working in Commercial Real Estate for over six years, I knew I needed a change. I took my interest in logical processes and design and decided to pursue the University of Washington Professional & Continuing Education (UWPCE) Certificates in <span class="font-semibold">Front End Development with HTML, CSS & Javascript</span> (completed April 2023) and <span class="font-semibold">UX & Visual Interface Design</span> (completed August 2022). 
         </p>
         <h5>Interests</h5>
-        <p class="md:text-lg mb-5">
+        <p class="md:text-lg mb-3">
           Praesent dictum, risus nec blandit fermentum, arcu dolor egestas leo, ut tincidunt nulla nisi at nisl. Integer vestibulum in justo in congue. Etiam mattis ullamcorper enim sit amet auctor. Nullam placerat lectus quam, sed dignissim arcu finibus sed. Donec pellentesque eget nibh ut porta. 
         </p>  
       </div>
