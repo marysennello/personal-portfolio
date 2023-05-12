@@ -5,7 +5,11 @@
         <div class="px-36 pt-12 flex flex-col items-center justify-center">
           <h1 class="inline">Hi, I'm <span class="accent">Mary</span></h1>
           
-          <img src="../assets/images/mary-sennello-tree.jpg" alt="Mary Sennello" class="rounded-full m-3 object-scale-down headerimg">
+          <img src="../assets/images/mary-sennello-tree.jpg" alt="Mary Sennello" class="rounded-full m-3 object-scale-down overflow-hidden headerimg">
+          <img src="../assets/images/mary-sennello-tree.jpg" alt="Mary Sennello" class="rounded-full m-3 object-contain overflow-hidden headerimg">
+          <img src="../assets/images/mary-sennello-tree.jpg" alt="Mary Sennello" class="rounded-full m-3 object-fill overflow-hidden headerimg">
+          <img src="../assets/images/mary-sennello-tree.jpg" alt="Mary Sennello" class="rounded-full m-3 object-none overflow-hidden headerimg">
+          <img src="../assets/images/mary-sennello-tree.jpg" alt="Mary Sennello" class="rounded-full m-3 object-cover overflow-hidden headerimg">
 
           <!--arrow icon  -->
           <a href="#aboutMe" class=" inline text-[--shell]">
