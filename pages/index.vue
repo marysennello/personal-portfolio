@@ -1,6 +1,6 @@
 <template>
   <div>
-    <main class="mx-3">
+    <main class="mx-1 md:mx-3">
       <div id="aboutMe" class="h-40 flex items-end">
         <h2>About Me</h2>
       </div>
