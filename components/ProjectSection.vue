@@ -6,11 +6,8 @@
 
         <div class="m-5 grid grid-cols-1">
 
-          <!-- <div class="w-full">
-            <h2>My Work</h2>
-          </div> -->
         <!-- cards for all projects -->
-        <div class="cards w-full flex justify-start flex-wrap">
+        <div class="cards w-full flex flex-wrap justify-center md:justify-start">
         <!--card for Zelda  -->
         <div class="card grid grid-cols-1 w-full lg:w-2/5 border border-[blackish] border-2 rounded-md p-3 my-3 mr-3 shadow-md shadow-[--lavender]/50">
           <!-- screencap of site -->
