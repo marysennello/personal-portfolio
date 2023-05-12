@@ -5,10 +5,10 @@
         <div class="px-36 pt-12 flex flex-col items-center justify-center">
           <h1 class="inline">Hi, I'm <span class="accent">Mary</span></h1>
           
-          <img src="../assets/images/mary-sennello-tree.jpg" alt="Mary Sennello" class="rounded-full m-3 headerimg">
+          <img src="../assets/images/mary-sennello-tree.jpg" alt="Mary Sennello" class="rounded-full m-3 object-scale-down headerimg">
 
           <!--arrow icon  -->
-          <a href="#navbar" class=" inline text-[--shell]">
+          <a href="#aboutMe" class=" inline text-[--shell]">
             <span class="material-symbols-outlined             
             m-3 p-3 bg-[--plumish] rounded-full enter-btn 
             transition transform ease-in-out
@@ -22,9 +22,10 @@
         </div>
     </header>
    
-    <nav id="navbar" class="px-5 flex justify-center shadow-md">
-      <div class="pt-5 flex flex-nowrap justify-between items-center w-3/4">
-        <a class="navbar-brand" href="#"><span class="accent">Mary Sennello</span></a>
+    <nav id="navbar" class="px-1 md:px-5 flex justify-center items-center shadow-md">
+
+      <div class="pt-5 flex flex-wrap md:flex-nowrap justify-around md:justify-between items-center w-11/12 md:w-4/5">
+        <a class="w-full md:w-auto text-center" href="#"><span class="accent">Mary Sennello</span></a>
         <a href="#aboutMe">About Me</a>
         <a href="#myWork">My Work</a>
         <a href="#contactMe">Contact</a>
