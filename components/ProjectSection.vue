@@ -12,7 +12,7 @@
         <div class="card grid grid-cols-1 w-full lg:w-2/5 border border-[blackish] border-2 rounded-md p-3 my-3 mr-3 shadow-md shadow-[--lavender]/50">
           <!-- screencap of site -->
           <div class="card-img w-full">
-            <img src="../assets/images/zelda-astro-clip.png" alt="screen cap of website" class="rounded-sm object-fill ">
+            <img src="../assets/images/zelda-astro-clip.png" alt="screen cap of website" class="rounded-md object-fill ">
           </div>
           <!-- list tools used -->
           <div class="card-detail">
@@ -44,7 +44,7 @@
         p-3 my-3 mr-3 
         shadow-md shadow-[--lavender]/50">
           <div class="card-img   w-full">
-            <img src="https://images.pexels.com/photos/4207677/pexels-photo-4207677.jpeg" alt="placeholder img" class="rounded-sm object-cover blur-sm ">
+            <img src="https://images.pexels.com/photos/4207677/pexels-photo-4207677.jpeg" alt="placeholder img" class="rounded-md object-cover blur-sm ">
           </div>
           <div class="card-detail">
             <h5 class="text-center my-2">Project In Progress</h5>

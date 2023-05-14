@@ -6,7 +6,7 @@
       <div class="flex flex-wrap lg:flex-nowrap justify-between">
 
         <!-- contact links -->
-        <div class="w-auto m-5 flex flex-col justify-between text-[--agapanthus]">
+        <div class="w-auto m-5 flex flex-col justify-around text-[--agapanthus]">
           <!-- email -->
           <a href="mailto:marysennello@gmail.com">
             <h4 class="text-3xl inline">Email</h4>
@@ -15,7 +15,7 @@
             </span>
           </a>
           <!-- phone -->
-          <a href="tel:+17077755717">
+          <a href="tel:+17077755617">
             <h4 class="text-3xl inline">Phone</h4>
             <span class="material-symbols-outlined inline">
               phone_iphone

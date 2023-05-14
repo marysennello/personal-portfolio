@@ -15,7 +15,7 @@
             hover:bg-[--lavender] shadow hover:shadow-inner
             focus:bg-[--lavender] shadow focus:shadow-inner
             ">
-            arrow_forward
+            arrow_downward
             </span>
             <span class="screen-reader-only">skip to main content</span>
           </a>
