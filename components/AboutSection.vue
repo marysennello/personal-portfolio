@@ -15,7 +15,7 @@
           After working in Commercial Real Estate for over six years, I leveraged my experience in project management, design, and planning to pursue formal technical coursework at the  University of Washington Professional & Continuing Education (UWPCE). I earned Certificates in <span class="font-semibold">Front End Development with HTML, CSS & Javascript</span> (completed April 2023) and <span class="font-semibold">UX & Visual Interface Design</span> (completed August 2022). 
         </p>
         <h5>Technical Skills</h5>
-        <div class="ml-5 grid grid-flow-row-dense grid-cols-2 md:grid-cols-3 grid-rows-auto gap-x-2 gap-y-4 auto-cols-min">
+        <div class="ml-0 md:ml-5 grid grid-flow-row-dense grid-cols-2 md:grid-cols-3 grid-rows-auto gap-x-2 gap-y-4">
           <p class="md:text-lg mb-3 underline underline-offset-8 decoration-4 decoration-[--purple]">HTML</p>
           <p class="md:text-lg mb-3 underline underline-offset-8 decoration-4 decoration-[--purple]">CSS</p> 
           <p class="md:text-lg mb-3 underline underline-offset-8 decoration-4 decoration-[--purple]">JavaScript</p> 
