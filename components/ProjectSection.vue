@@ -28,7 +28,7 @@
             </div>
             <!-- button to go to project site -->
             <div class="my-3 flex justify-center">
-              <a href="https://master--dynamic-treacle-b3c7d4.netlify.app/" class="p-3  my-1 bg-[--agapanthus] border border-[--agapanthus] text-[--shell] rounded-lg hover:bg-[--plumish]
+              <a href="https://zelda-astrology.netlify.app" class="p-3  my-1 bg-[--agapanthus] border border-[--agapanthus] text-[--shell] rounded-lg hover:bg-[--plumish]
               flex flex-nowrap justify-center
               ">Explore 
               <span class="material-symbols-outlined">
