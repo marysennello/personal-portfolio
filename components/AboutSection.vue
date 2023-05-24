@@ -6,7 +6,6 @@
     <div class="flex flex-wrap lg:flex-nowrap justify-between items-stretch">
 
       <div class="aboutMeInfo w:full lg:w-3/6 m-5">
-        <!-- <h2>About Me</h2> -->
         <p class="md:text-lg mb-5">
           I am a Front End Developer with a record for improving processes, implementing innovative solutions, and delivering optimized, refined projects. I enjoy figuring out the best way to define business vision and translating that into action. My curiosity and desire for efficiency fuel my passion for creating usable, logical content.
         </p>
@@ -16,24 +15,26 @@
         </p>
         <h5>Technical Skills</h5>
         <div class="ml-0 md:ml-5 grid grid-flow-row-dense grid-cols-2 md:grid-cols-3 grid-rows-auto gap-x-2 gap-y-4">
-          <p class="md:text-lg mb-3 underline underline-offset-8 decoration-4 decoration-[--purple]">HTML</p>
-          <p class="md:text-lg mb-3 underline underline-offset-8 decoration-4 decoration-[--purple]">CSS</p> 
-          <p class="md:text-lg mb-3 underline underline-offset-8 decoration-4 decoration-[--purple]">JavaScript</p> 
-          <p class="md:text-lg mb-3 underline underline-offset-8 decoration-4 decoration-[--purple]">SASS</p>
+          <AboutSkill class="lang">HTML</AboutSkill>
+          <AboutSkill class="lang">CSS</AboutSkill> 
+          <AboutSkill class="lang">JavaScript</AboutSkill> 
+          <AboutSkill class="lang">SASS</AboutSkill>
 
-          <p class="md:text-lg mb-3 underline underline-offset-8 decoration-4 decoration-[--lilac]">Tailwind CSS</p>  
-          <p class="md:text-lg mb-3 underline underline-offset-8 decoration-4 decoration-[--lilac]">Bootstrap</p> 
-          <p class="md:text-lg mb-3 underline underline-offset-8 decoration-4 decoration-[--lilac]">jQuery</p> 
+          <AboutSkill class="library">Tailwind CSS</AboutSkill>  
+          <AboutSkill class="library">Bootstrap</AboutSkill> 
+          <AboutSkill class="library">jQuery</AboutSkill> 
 
-          <p class="md:text-lg mb-3 underline underline-offset-8 decoration-4 decoration-[--periwinkle]">Vue.js</p> 
-          <p class="md:text-lg mb-3 underline underline-offset-8 decoration-4 decoration-[--periwinkle]">Node.js</p> 
-          <p class="md:text-lg mb-3 underline underline-offset-8 decoration-4 decoration-[--periwinkle]">Nuxt.js</p> 
+          <AboutSkill class="framework">Vue.js</AboutSkill> 
+          <AboutSkill class="framework">React</AboutSkill> 
+          <AboutSkill class="framework">Next.js</AboutSkill> 
+          <AboutSkill class="framework">Node.js</AboutSkill> 
+          <AboutSkill class="framework">Nuxt.js</AboutSkill> 
           
-          <p class="md:text-lg mb-3 underline underline-offset-8 decoration-4 decoration-[--pinkpearl]">Figma</p> 
-          <p class="md:text-lg mb-3 underline underline-offset-8 decoration-4 decoration-[--pinkpearl]">Adobe Illustrator</p> 
-          <p class="md:text-lg mb-3 underline underline-offset-8 decoration-4 decoration-[--pinkpearl]">Adobe InDesign</p> 
-          <p class="md:text-lg mb-3 underline underline-offset-8 decoration-4 decoration-[--pinkpearl]">Adobe Photoshop</p>
-          <p class="md:text-lg mb-3 underline underline-offset-8 decoration-4 decoration-[--pinkpearl]">Microsoft Excel</p> 
+          <AboutSkill class="program">Figma</AboutSkill> 
+          <AboutSkill class="program">Adobe Illustrator</AboutSkill> 
+          <AboutSkill class="program">Adobe InDesign</AboutSkill> 
+          <AboutSkill class="program">Adobe Photoshop</AboutSkill>
+          <AboutSkill class="program">Microsoft Excel</AboutSkill> 
           
         </div>
       </div>
@@ -58,6 +59,7 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped>
+<style scoped>
+
 
 </style>

@@ -93,6 +93,18 @@ body {
   a h4, a h5 {
     color: var(--agapanthus)
   }
+  .lang {
+    @apply decoration-[--purple];
+  }
+  .library {
+    @apply decoration-[--lilac];
+  }
+  .framework {
+    @apply decoration-[--periwinkle];
+  }
+  .program {
+    @apply decoration-[--pinkpearl];
+  }
 }
 
 nav {
