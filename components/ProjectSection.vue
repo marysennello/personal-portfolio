@@ -40,13 +40,14 @@
 
         <ProjectCard>
           <ProjectCardImg>
-            <img src="../assets/images/promptopia-clip.png" alt="promptopia clip" class="rounded-md object-fill">
+            <img src="../assets/images/promptopia-clip-2.png" alt="promptopia clip" class="rounded-md object-fill">
           </ProjectCardImg>
           <ProjectCardDetail>
             <h5 class="text-center my-2">Project In Progress - Promptopia</h5>
             <h6 class="text-sm italic text-center">
               <span>via </span> 
               <a href="https://www.jsmastery.pro/" class="text-[--agapanthus]">JS Mastery Pro</a>
+              <span> tutorial</span>
             </h6>
 
             <div class="flex justify-around flex-wrap px-2 ">
@@ -60,13 +61,13 @@
 
             </div>
             <!-- button to go to project site -->
-            <!-- <ProjectCardButton>
-              <a href="#"> Explore 
+            <ProjectCardButton>
+              <a href="https://promptopia-project-id8qt5i4c-marysennello.vercel.app/"> Explore 
                 <span class="material-symbols-outlined">
                 arrow_forward
                 </span>
               </a>
-            </ProjectCardButton> -->
+            </ProjectCardButton>
           </ProjectCardDetail>
         </ProjectCard>
 
