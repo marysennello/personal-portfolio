@@ -22,16 +22,19 @@
         </div>
     </header>
    
-    <nav id="navbar" class="px-1 md:px-5 flex justify-center items-center shadow-md">
+    <nav id="navbar" class="px-1 md:px-32 flex justify-start items-center shadow-md">
 
-      <div class="pt-5 flex flex-wrap md:flex-nowrap justify-around md:justify-between items-center w-11/12 md:w-4/5">
+      <div class="pt-5 flex flex-wrap md:flex-nowrap justify-around md:justify-between items-center w-11/12 md:w-2/5">
         <a class="w-full md:w-auto text-center" href="#"><span class="accent">Mary Sennello</span></a>
         <a href="#aboutMe">About Me</a>
         <a href="#myWork">My Work</a>
         <a href="#contactMe">Contact</a>
       </div>
     </nav>
-    <slot />
+
+    <div class="flex md:mx-32">
+      <slot class=""/>
+    </div>
 
   <footer class="bg-[--dark-lilac] h-12 rounded-t-3xl"></footer>
   </div>

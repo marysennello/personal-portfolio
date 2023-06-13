@@ -7,7 +7,30 @@
         <div class="m-5 grid grid-cols-1">
 
         <!-- cards for all projects -->
-        <div class="cards w-full flex flex-wrap justify-center md:justify-start">
+        <div class="cards w-full flex flex-wrap justify-center md:justify-around">
+
+        <!-- card for Mikey's portfolio -->
+        <ProjectCard>
+          <ProjectCardImg>
+            <img src="../assets/images/mikey-photography-clip.png" alt="screen cap of website" class="rounded-md object-fill ">
+          </ProjectCardImg>
+          <ProjectCardDetail>
+            <h5 class="text-center my-2">Photographer's Portfolio</h5>
+            <div class="flex justify-around flex-wrap px-2">
+              <ToolsButton>Vue.js</ToolsButton>
+              <ToolsButton>Nuxt 3</ToolsButton>
+              <ToolsButton>Tailwind CSS</ToolsButton>
+              <ToolsButton>Rest API</ToolsButton>
+            </div>
+
+            <ProjectCardButton>
+              <a href="https://mikeydepala.netlify.app">Explore 
+              <span class="material-symbols-outlined">
+                arrow_forward
+                </span> </a>
+            </ProjectCardButton>
+          </ProjectCardDetail>
+        </ProjectCard>
 
         <!--card for Zelda  -->
         <ProjectCard>
@@ -20,9 +43,6 @@
             <h5 class="text-center my-2">Zelda Astrology</h5>
 
             <div class="flex justify-around flex-wrap px-2">
-              <ToolsButton>HTML</ToolsButton>
-              <ToolsButton>CSS</ToolsButton>
-              <ToolsButton>JavaScript</ToolsButton>
               <ToolsButton>Vue.js</ToolsButton>
               <ToolsButton>Nuxt 3</ToolsButton>
               <ToolsButton>Tailwind CSS</ToolsButton>
@@ -51,13 +71,9 @@
             </h6>
 
             <div class="flex justify-around flex-wrap px-2 ">
-              <ToolsButton>HTML</ToolsButton>
-              <ToolsButton>CSS</ToolsButton>
-              <ToolsButton>JavaScript</ToolsButton>
               <ToolsButton>React</ToolsButton>
               <ToolsButton>Next.js</ToolsButton>
               <ToolsButton>Tailwind CSS</ToolsButton>
-              <ToolsButton>Rest API</ToolsButton>
 
             </div>
             <!-- button to go to project site -->
