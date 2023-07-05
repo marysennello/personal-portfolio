@@ -152,9 +152,9 @@ main {
 
 /*moving gradient for header*/
 .gradient-background {
-  background: linear-gradient(120deg, rgba(229, 202, 209, 0.2), #f1f2f4,#e5cad1, #ba90d1, #6e557c);
+  background: linear-gradient(120deg, rgba(229, 202, 209, 0.2), #e5d9f5,#e5cad1, #ba90d1, #6e557c);
   background-size: 240% 240%;
-  animation: gradient-animation 12s ease infinite;
+  animation: gradient-animation 8s ease infinite;
 }
 
 @keyframes gradient-animation {

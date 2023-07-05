@@ -7,12 +7,15 @@
 
       <div class="aboutMeInfo w:full lg:w-3/6 m-5">
         <p class="md:text-xl mb-5">
-          I am a Front End Developer with a record for improving processes, implementing innovative solutions, and delivering optimized, refined projects. I enjoy figuring out the best way to define business vision and translating that into action. My curiosity and desire for efficiency fuel my passion for creating usable, logical content.
-        </p>
-        <h5>Background</h5>
+          Freelance Front-End Developer with a passion for creating beautiful and efficient web designs. I specialize in Vue.js, Tailwind CSS, and implementing logical solutions. I hold certificates in <span class="font-semibold">Front End Development with HTML, CSS & Javascript</span>, as well as <span class="font-semibold">UX & Visual Interface Design</span>, equipping me with a well-rounded skill set.</p>
+
+          <p>I take pride in my ability to optimize web development processes, enhancing efficiency while delivering visually stunning and user-friendly interfaces. My recent accomplishments include the successful redesign of Cost Analysis and Underwriting documents, streamlining the underwriting process for commercial tenants and driving uniformity in the deal approval process.</p>
+
+          <p>As a dedicated learner, I stay abreast of industry trends and best practices to continuously enhance my skills. I enjoy utilizing my logical thinking and problem-solving abilities to tackle complex challenges, while collaborating seamlessly with cross-functional teams.</p>
+        <!-- <h5>Background</h5>
         <p class="md:text-xl mb-5">
           After working in Commercial Real Estate for over six years, I leveraged my experience in project management, design, and planning to pursue formal technical coursework at the  University of Washington Professional & Continuing Education (UWPCE). I earned Certificates in <span class="font-semibold">Front End Development with HTML, CSS & Javascript</span> (completed April 2023) and <span class="font-semibold">UX & Visual Interface Design</span> (completed August 2022). 
-        </p>
+        </p> -->
         <h5>Technical Skills</h5>
         <div class="ml-0 md:ml-5 grid grid-flow-row-dense grid-cols-2 md:grid-cols-3 grid-rows-auto gap-x-2 gap-y-4">
           <AboutSkill class="lang">HTML</AboutSkill>
