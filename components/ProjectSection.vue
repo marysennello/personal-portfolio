@@ -8,7 +8,31 @@
 
         <!-- cards for all projects -->
         <div class="cards w-full flex flex-wrap justify-center md:justify-around">
+        <!-- card for gatherr -->
+        <ProjectCard>
+          <ProjectCardImg>
+            <img src="../assets/images/gatherr-clip.png" alt="screen cap of website" class="rounded-md object-fill ">
+          </ProjectCardImg>
+          <ProjectCardDetail>
+            <h5 class="text-center my-2">Event Organizing Platform</h5>
+            <div class="flex justify-around flex-wrap px-2">
+              <ToolsButton>React</ToolsButton>
+              <ToolsButton>Nextjs</ToolsButton>
+              <ToolsButton>Tailwind CSS</ToolsButton>
+              <ToolsButton>Headless UI</ToolsButton>
+              <ToolsButton>Rest API</ToolsButton>
+              <ToolsButton>*Paid, Freelance</ToolsButton>
+            </div>
 
+            <ProjectCardButton>
+              <p class="bg-slate-500 p-3 my-1 border border-slate-400 text-[--shell] rounded-lg hover:bg-slate-400
+              flex flex-nowrap justify-center ">In Progress 
+              <span class="material-symbols-outlined px-1">
+                pending
+                </span> </p>
+            </ProjectCardButton>
+          </ProjectCardDetail>
+        </ProjectCard>
         <!-- card for Mikey's portfolio -->
         <ProjectCard>
           <ProjectCardImg>
@@ -21,6 +45,7 @@
               <ToolsButton>Nuxt 3</ToolsButton>
               <ToolsButton>Tailwind CSS</ToolsButton>
               <ToolsButton>Rest API</ToolsButton>
+              <ToolsButton>*Paid, Freelance</ToolsButton>
             </div>
 
             <ProjectCardButton>
@@ -123,5 +148,6 @@ export default {
   @apply p-3 my-1 bg-[--agapanthus] border border-[--agapanthus] text-[--shell] rounded-lg hover:bg-[--plumish]
   flex flex-nowrap justify-center
 }
+
 
 </style>
