@@ -9,7 +9,9 @@
         <p class="md:text-xl mb-5">
           Freelance Front-End Developer with a passion for creating beautiful and efficient web designs. I specialize in Vue.js, Tailwind CSS, and implementing logical solutions. I hold certificates in <span class="font-semibold">Front End Development with HTML, CSS & Javascript</span>, as well as <span class="font-semibold">UX & Visual Interface Design</span>, equipping me with a well-rounded skill set.</p>
 
-          <p class="md:text-xl mb-5">I take pride in my ability to optimize web development processes, enhancing efficiency while delivering visually stunning and user-friendly interfaces. As a dedicated learner, I stay abreast of industry trends and best practices to continuously enhance my skills. I enjoy utilizing my logical thinking and problem-solving abilities to tackle complex challenges, while collaborating seamlessly with cross-functional teams.</p>
+          <p class="md:text-xl mb-5">I get immense satisfaction from executing visions, problem solving, and writing clean, dynamic code. I'm known for my level head and welcoming a challenge. </p>
+          
+          <!-- <p class="md:text-xl mb-5">I take pride in my ability to optimize web development processes, enhancing efficiency while delivering visually stunning and user-friendly interfaces. As a dedicated learner, I stay abreast of industry trends and best practices to continuously enhance my skills. I enjoy utilizing my logical thinking and problem-solving abilities to tackle complex challenges, while collaborating seamlessly with cross-functional teams.</p> -->
         <!-- <h5>Background</h5>
         <p class="md:text-xl mb-5">
           After working in Commercial Real Estate for over six years, I leveraged my experience in project management, design, and planning to pursue formal technical coursework at the  University of Washington Professional & Continuing Education (UWPCE). I earned Certificates in <span class="font-semibold">Front End Development with HTML, CSS & Javascript</span> (completed April 2023) and <span class="font-semibold">UX & Visual Interface Design</span> (completed August 2022). 
